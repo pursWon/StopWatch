@@ -8,3 +8,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Stop"
 include ':app'
+include ':recy'
+include ':toucheventhw1'
