@@ -10,3 +10,5 @@ rootProject.name = "Stop"
 include ':app'
 include ':recy'
 include ':toucheventhw1'
+include ':resource'
+include ':toucheventhw2'
